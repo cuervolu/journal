@@ -4,7 +4,7 @@ The humans responsible & technology colophon
 /* PROJECT */
 
 	Site Name: JournalApp
-	Site URL: TODO: ADD SITE URL
+	Site URL: https://journal-app-sigma-five.vercel.app
 	Created: 2022/12/25 
 	Web Design: Angel Cuervo
     Contact: cuervolu [at] protonmail.com
