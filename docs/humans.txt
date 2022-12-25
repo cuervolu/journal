@@ -4,7 +4,7 @@ The humans responsible & technology colophon
 /* PROJECT */
 
 	Site Name: JournalApp
-	Site URL: TODO: ADD SITE URL
+	Site URL: cuervolu.github.io/journal/
 	Created: 2022/12/25 
 	Web Design: Angel Cuervo
     Contact: cuervolu [at] protonmail.com
@@ -31,4 +31,4 @@ The humans responsible & technology colophon
 /* TECHNOLOGY */
 
 	Built with: React, Redux, Vite, HTML, CSS, Javascript, Firebase, FireStore, Cloudinary
-    Plugins: Material UI, date-fns, sweetalert2
+    Plugins: Material UI, date-fns, sweetalert2, animate.css
